@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    gap: 5vh;
+
+}
+
+button{
+    height: 30px;
+    width: 90px;
+    text-align: center;
+}
+
+#red{
+    background-color: rgb(248, 8, 8);
+    
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
+
+#automatic{
+    background-color:white;
+}
+
